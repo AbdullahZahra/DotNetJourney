@@ -1,0 +1,15 @@
+/home/abdullah/projects/DotNetJourney/code/Chapter01/HelloCS/bin/Debug/net6.0/HelloCS
+/home/abdullah/projects/DotNetJourney/code/Chapter01/HelloCS/bin/Debug/net6.0/HelloCS.deps.json
+/home/abdullah/projects/DotNetJourney/code/Chapter01/HelloCS/bin/Debug/net6.0/HelloCS.runtimeconfig.json
+/home/abdullah/projects/DotNetJourney/code/Chapter01/HelloCS/bin/Debug/net6.0/HelloCS.dll
+/home/abdullah/projects/DotNetJourney/code/Chapter01/HelloCS/bin/Debug/net6.0/HelloCS.pdb
+/home/abdullah/projects/DotNetJourney/code/Chapter01/HelloCS/obj/Debug/net6.0/HelloCS.csproj.AssemblyReference.cache
+/home/abdullah/projects/DotNetJourney/code/Chapter01/HelloCS/obj/Debug/net6.0/HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdullah/projects/DotNetJourney/code/Chapter01/HelloCS/obj/Debug/net6.0/HelloCS.AssemblyInfoInputs.cache
+/home/abdullah/projects/DotNetJourney/code/Chapter01/HelloCS/obj/Debug/net6.0/HelloCS.AssemblyInfo.cs
+/home/abdullah/projects/DotNetJourney/code/Chapter01/HelloCS/obj/Debug/net6.0/HelloCS.csproj.CoreCompileInputs.cache
+/home/abdullah/projects/DotNetJourney/code/Chapter01/HelloCS/obj/Debug/net6.0/HelloCS.dll
+/home/abdullah/projects/DotNetJourney/code/Chapter01/HelloCS/obj/Debug/net6.0/refint/HelloCS.dll
+/home/abdullah/projects/DotNetJourney/code/Chapter01/HelloCS/obj/Debug/net6.0/HelloCS.pdb
+/home/abdullah/projects/DotNetJourney/code/Chapter01/HelloCS/obj/Debug/net6.0/HelloCS.genruntimeconfig.cache
+/home/abdullah/projects/DotNetJourney/code/Chapter01/HelloCS/obj/Debug/net6.0/ref/HelloCS.dll
