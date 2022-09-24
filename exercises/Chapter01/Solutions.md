@@ -45,3 +45,23 @@ Microsoft Documentation.
 ### 10. Where would you look for solutions to common programming problems?
 
 Google and Stackoverflow.
+
+## Exercise 1.2
+
+You don't need Visual Studio Code or even Visual Studio 2019 or Visual Studio 2019 for Mac to write C#. You can go to .NET Fiddle – <https://dotnetfiddle.net/> – and start coding online.
+
+## Exercise 1.3
+
+You can use the following links to read more details about the topics we've covered in this chapter:
+
+- Visual Studio Code documentation: <https://code.visualstudio.com/docs>
+- .NET: <https://dotnet.microsoft.com>
+- .NET Core Command-Line Interface (CLI) tool: <https://aka.ms/dotnet-cli-docs>
+- .NET Core runtime, CoreCLR: <https://github.com/dotnet/runtime>
+- .NET Core Roadmap: <https://github.com/dotnet/core/blob/master/roadmap.md>
+- .NET Standard FAQ: <https://github.com/dotnet/standard/blob/master/docs/faq.md>
+- Stack Overflow: <https://stackoverflow.com/>
+- Google Advanced Search: <https://www.google.com/advanced_search>
+- Microsoft Learn: <https://docs.microsoft.com/en-us/learn/>
+- .NET Videos: <https://dotnet.microsoft.com/learn/videos>
+- Microsoft Channel 9 – .NET Videos: <https://channel9.msdn.com/Search?term=.net&lang-en=true>
