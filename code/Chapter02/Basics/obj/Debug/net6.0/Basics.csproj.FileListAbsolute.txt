@@ -1,0 +1,15 @@
+/home/abdullah/projects/DotNetJourney/code/Chapter02/Basics/bin/Debug/net6.0/Basics
+/home/abdullah/projects/DotNetJourney/code/Chapter02/Basics/bin/Debug/net6.0/Basics.deps.json
+/home/abdullah/projects/DotNetJourney/code/Chapter02/Basics/bin/Debug/net6.0/Basics.runtimeconfig.json
+/home/abdullah/projects/DotNetJourney/code/Chapter02/Basics/bin/Debug/net6.0/Basics.dll
+/home/abdullah/projects/DotNetJourney/code/Chapter02/Basics/bin/Debug/net6.0/Basics.pdb
+/home/abdullah/projects/DotNetJourney/code/Chapter02/Basics/obj/Debug/net6.0/Basics.csproj.AssemblyReference.cache
+/home/abdullah/projects/DotNetJourney/code/Chapter02/Basics/obj/Debug/net6.0/Basics.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdullah/projects/DotNetJourney/code/Chapter02/Basics/obj/Debug/net6.0/Basics.AssemblyInfoInputs.cache
+/home/abdullah/projects/DotNetJourney/code/Chapter02/Basics/obj/Debug/net6.0/Basics.AssemblyInfo.cs
+/home/abdullah/projects/DotNetJourney/code/Chapter02/Basics/obj/Debug/net6.0/Basics.csproj.CoreCompileInputs.cache
+/home/abdullah/projects/DotNetJourney/code/Chapter02/Basics/obj/Debug/net6.0/Basics.dll
+/home/abdullah/projects/DotNetJourney/code/Chapter02/Basics/obj/Debug/net6.0/refint/Basics.dll
+/home/abdullah/projects/DotNetJourney/code/Chapter02/Basics/obj/Debug/net6.0/Basics.pdb
+/home/abdullah/projects/DotNetJourney/code/Chapter02/Basics/obj/Debug/net6.0/Basics.genruntimeconfig.cache
+/home/abdullah/projects/DotNetJourney/code/Chapter02/Basics/obj/Debug/net6.0/ref/Basics.dll
