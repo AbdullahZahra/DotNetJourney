@@ -1,0 +1,15 @@
+/home/abdullah/projects/DotNetJourney/code/Chapter02/Numbers/bin/Debug/net6.0/Numbers
+/home/abdullah/projects/DotNetJourney/code/Chapter02/Numbers/bin/Debug/net6.0/Numbers.deps.json
+/home/abdullah/projects/DotNetJourney/code/Chapter02/Numbers/bin/Debug/net6.0/Numbers.runtimeconfig.json
+/home/abdullah/projects/DotNetJourney/code/Chapter02/Numbers/bin/Debug/net6.0/Numbers.dll
+/home/abdullah/projects/DotNetJourney/code/Chapter02/Numbers/bin/Debug/net6.0/Numbers.pdb
+/home/abdullah/projects/DotNetJourney/code/Chapter02/Numbers/obj/Debug/net6.0/Numbers.csproj.AssemblyReference.cache
+/home/abdullah/projects/DotNetJourney/code/Chapter02/Numbers/obj/Debug/net6.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdullah/projects/DotNetJourney/code/Chapter02/Numbers/obj/Debug/net6.0/Numbers.AssemblyInfoInputs.cache
+/home/abdullah/projects/DotNetJourney/code/Chapter02/Numbers/obj/Debug/net6.0/Numbers.AssemblyInfo.cs
+/home/abdullah/projects/DotNetJourney/code/Chapter02/Numbers/obj/Debug/net6.0/Numbers.csproj.CoreCompileInputs.cache
+/home/abdullah/projects/DotNetJourney/code/Chapter02/Numbers/obj/Debug/net6.0/Numbers.dll
+/home/abdullah/projects/DotNetJourney/code/Chapter02/Numbers/obj/Debug/net6.0/refint/Numbers.dll
+/home/abdullah/projects/DotNetJourney/code/Chapter02/Numbers/obj/Debug/net6.0/Numbers.pdb
+/home/abdullah/projects/DotNetJourney/code/Chapter02/Numbers/obj/Debug/net6.0/Numbers.genruntimeconfig.cache
+/home/abdullah/projects/DotNetJourney/code/Chapter02/Numbers/obj/Debug/net6.0/ref/Numbers.dll
